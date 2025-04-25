@@ -11,6 +11,9 @@ Currently studying at UPO.
 - C (advanced)
 - Java
 - JavaScript
+- C#
+- Kotlin
+- TypeScript (React Native)
 - Python
 - C++
 
