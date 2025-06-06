@@ -10,12 +10,12 @@ Currently studying at UPO.
 
 - C (advanced)
 - C# (most liked language and used)
+- C++ (just beacause, why not)
 - JavaScript (used mostly for API's calls)
 - Java (just beacause i have to...)
 - Kotlin (same as above)
 - TypeScript (React Native)
 - Python (just fine, AI power)
-- C++ (just beacause, why not)
 
 ![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastOfShadow&show_icons=true&theme=radical)
 
