@@ -3,7 +3,7 @@
 
 Currently studying at UPO.
 
-- 🌱 I’m currently learning AI (LLM and CNN models).
+- 🌱 I’m currently learning AI to make a happy future.
 <!-- - 📫 How to reach me: <a href="mailto:simone.negro.2002@gmail.com" target="_blank">simone.negro.2002@gmail.com</a>-->
 
 ## Languages
