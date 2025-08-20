@@ -14,7 +14,7 @@ Currently studying at UPO.
 - JavaScript (used mostly for API's calls)
 - Java (just beacause i have to...)
 - Kotlin (same as above)
-- TypeScript (React Native... i have to explain it?)
+- TypeScript (React Native and React)
 - Python (just fine, AI power)
 
 ![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastOfShadow&show_icons=true&theme=radical)
