@@ -3,7 +3,7 @@
 
 Bachelor Degree in Computer Science.
 
-Curently Attending AI (MCs).
+Curently Attending AI (MSc).
 
 - 🌱 I’m currently learning AI to make a happy future.
 <!-- - 📫 How to reach me: <a href="mailto:simone.negro.2002@gmail.com" target="_blank">simone.negro.2002@gmail.com</a>-->
