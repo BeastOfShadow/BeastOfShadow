@@ -2,6 +2,7 @@
 # Hi there 👋
 
 Bachelor Degree in Computer Science.
+
 Curently Attending AI (MCs).
 
 - 🌱 I’m currently learning AI to make a happy future.
