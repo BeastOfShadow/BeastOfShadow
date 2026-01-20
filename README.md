@@ -5,7 +5,7 @@ Bachelor Degree in Computer Science.
 
 Curently Attending AI (MSc).
 
-- 🌱 I’m currently learning AI to make a happy future.
+- 🌱 I’m currently learning AI to make a happy future and learing rust to make my life sad...
 <!-- - 📫 How to reach me: <a href="mailto:simone.negro.2002@gmail.com" target="_blank">simone.negro.2002@gmail.com</a>-->
 
 ## Languages
