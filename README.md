@@ -18,6 +18,7 @@ Curently Attending AI (MSc).
 - Kotlin (same as above)
 - TypeScript (React Native and React)
 - Python (just fine, AI power)
+- Rust
 
 ![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastOfShadow&show_icons=true&theme=radical)
 
