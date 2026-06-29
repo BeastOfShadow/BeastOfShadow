@@ -11,6 +11,7 @@ Curently Attending AI (MSc).
 ## Languages
 
 Focusing on Rust and Python for Backend and AI. I also learnd:
+
 C (advanced), C# (most liked and used), JavaScript (used mostly for API's calls), Java (just beacause i have to...), Kotlin (same as before), TypeScript (React Native and React)
 
 
