@@ -10,15 +10,9 @@ Curently Attending AI (MSc).
 
 ## Languages
 
-- C (advanced)
-- C# (most liked and used)
-- C++ (just beacause, why not)
-- JavaScript (used mostly for API's calls)
-- Java (just beacause i have to...)
-- Kotlin (same as above)
-- TypeScript (React Native and React)
-- Python (just fine, AI power)
-- Rust
+Focusing on Rust and Python for Backend and AI. I also learnd:
+C (advanced), C# (most liked and used), JavaScript (used mostly for API's calls), Java (just beacause i have to...), Kotlin (same as before), TypeScript (React Native and React)
+
 
 ![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastOfShadow&show_icons=true&theme=radical)
 
