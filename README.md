@@ -1,34 +1,39 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=BeastOfShadow&repo=github-visitors-badge&countColor=%237B1E7A)
-# Hi there 👋
 
-Bachelor Degree in Computer Science.
+# Simone Negro
 
-Curently Attending AI (MSc).
+**Backend & AI Engineer.** ASP.NET Core, applied ML, and the messy part in between:
+serving models, LLM app backends, RAG.
 
-- 🌱 I’m currently learning AI to make a happy future and learing rust to make my life sad...
-<!-- - 📫 How to reach me: <a href="mailto:simone.negro.2002@gmail.com" target="_blank">simone.negro.2002@gmail.com</a>-->
+MSc student in Artificial Intelligence at Università del Piemonte Orientale.
+Backend developer at [Intuitiva Salute](https://intuitivasalute.it), a management
+platform for Italian medical clinics.
 
-## Languages
+I write build logs at **[simonenegro.com/blog](https://www.simonenegro.com/blog)** —
+real code, real numbers, and the bugs that cost me a day.
 
-Focusing on Rust and Python for Backend and AI. I also learnd:
+## What I build
 
-C (advanced), C# (most liked and used), JavaScript (used mostly for API's calls), Java (just beacause i have to...), Kotlin (same as before), TypeScript (React Native and React)
+| Project | What it is |
+|---|---|
+| [Mobishare](https://github.com/BeastOfShadow/Mobishare) | Shared urban mobility platform in ASP.NET Core. Six write-ups on the blog, including the auth hole I shipped and the distributed monolith I built by accident. |
+| [Cosmind](https://github.com/BeastOfShadow/Cosmind) | Local-first AI second brain: multi-agent RAG over your Markdown notes, rendered as a 3D knowledge graph. |
+| [ML-and-DL](https://github.com/BeastOfShadow/ML-and-DL) | Machine learning from the ground up — regression and classification, every result cross-validated scikit-learn against WEKA. |
+| [webgraph-viz](https://github.com/BeastOfShadow/webgraph-viz) | Crawl a site, visualize its link structure as an interactive graph. |
 
+## Stack
+
+**Backend** C#, ASP.NET Core, Python, FastAPI, PostgreSQL
+**AI** scikit-learn, PyTorch, Ollama, pgvector, local LLMs
+**Also** TypeScript, C, Rust (learning, and heading into production)
 
 ![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastOfShadow&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeastOfShadow&layout=compact&theme=radical)
-<!--
-**SimoneNegro/SimoneNegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Elsewhere
+
+[Website](https://www.simonenegro.com) ·
+[Blog](https://www.simonenegro.com/blog) ·
+[LinkedIn](https://www.linkedin.com/in/simonenegro-ai/)
